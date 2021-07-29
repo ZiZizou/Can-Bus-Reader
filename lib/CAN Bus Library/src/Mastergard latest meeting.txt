@@ -1,0 +1,20 @@
+Notes
+	1. RTOS chip for the implementation
+	2. Unlevel plane angle measurement
+	3. Brake pedal not pushed - no light is ok
+	4. Polling time for obd2
+	5. Not universal codes ?
+	6. What are the information - g force
+	7. OEM lamp vs external work for both
+	8.	Use transistor and esp32 flashing no need for flasher
+	9. One flash sequence
+	10. Possibly using EEPROM just to save value
+	
+WANTS
+Circuitry to be able not to splice the brake light wire
+Not having to put a dry contact to 
+If the load is being energized, actually put circuitry 
+
+12 V wire -> load -> ground
+before load there is a wire attached to it to some sort of circuit board
+circuit board when it is told to, would be
